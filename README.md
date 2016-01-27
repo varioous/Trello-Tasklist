@@ -1,7 +1,7 @@
 # Trello-Tasklist
 Generates a HTML based Trello-Tasklist ready for export (PDF) and print. Easy to customize with your own style. Trello datas fetched by Trello-API.
 
-More informations see https://varioous.at/blog/trello-taskliste-erstellen-und-drucken/
+For more information see our blog post: https://varioous.at/blog/trello-taskliste-erstellen-und-drucken/
 
 ##Installation
 - Request API-Key from https://developers.trello.com/
