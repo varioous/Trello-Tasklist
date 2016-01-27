@@ -10,7 +10,7 @@ For more information see our blog post: https://varioous.at/blog/trello-tasklist
 - Publish on localhost or web server
 
 ##Usage
-Just call the url in the web browser (e.q. localhost/trello/index.html). On first request you have to grant right to access your trello data (AdBlock is blocking this window).
+Just call the url in the web browser (e.q. localhost/trello/index.html). On first request you have to grant the tool access to your Trello data (AdBlock is blocking this window).
 
 ##History
 
