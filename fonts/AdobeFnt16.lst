@@ -1,0 +1,185 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+MenuName:Open Sans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Bold
+WritingScript:Roman
+OutlineFileName:\OpenSans-Bold.ttf
+DataFormat:sfntData
+FileLength:224592
+FileModTime:1305134216
+NameArray:0,Mac,4,Open Sans Bold
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans
+FamilyName:Open Sans
+StyleName:Regular
+MenuName:Open Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Open Sans
+WritingScript:Roman
+OutlineFileName:\OpenSans-Regular.ttf
+DataFormat:sfntData
+FileLength:217360
+FileModTime:1305134204
+NameArray:0,Mac,4,Open Sans
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-Light
+FamilyName:Source Code Pro
+StyleName:Light
+MenuName:Source Code Pro Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Source Code Pro Light
+WritingScript:Roman
+OutlineFileName:\SourceCodePro-Light.ttf
+DataFormat:sfntData
+FileLength:104408
+FileModTime:1403198502
+DesignSize:100
+NameArray:0,Mac,4,Source Code Pro Light
+NameArray:0,Win,1,Source Code Pro Light
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-Regular
+FamilyName:Source Code Pro
+StyleName:Regular
+MenuName:Source Code Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Source Code Pro
+WritingScript:Roman
+OutlineFileName:\SourceCodePro-Regular.ttf
+DataFormat:sfntData
+FileLength:103820
+FileModTime:1403198502
+DesignSize:100
+NameArray:0,Mac,4,Source Code Pro
+NameArray:0,Win,1,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SourceCodePro-Semibold
+FamilyName:Source Code Pro
+StyleName:Semibold
+MenuName:Source Code Pro Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Source Code Pro Semibold
+WritingScript:Roman
+OutlineFileName:\SourceCodePro-Semibold.ttf
+DataFormat:sfntData
+FileLength:103500
+FileModTime:1403198502
+DesignSize:100
+NameArray:0,Mac,4,Source Code Pro Semibold
+NameArray:0,Win,1,Source Code Pro Semibold
+NameArray:0,Win,16,Source Code Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Planer-Bold
+FamilyName:Planer
+StyleName:Bold
+MenuName:Planer Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Planer Bold
+WritingScript:Roman
+OutlineFileName:\The Northern Block Ltd - Planer-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:82752
+FileModTime:1415342116
+NameArray:0,Mac,4,Planer Bold
+NameArray:0,Win,1,Planer Bold
+NameArray:0,Win,16,Planer
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Planer-DemiBold
+FamilyName:Planer
+StyleName:DemiBold
+MenuName:Planer DemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Planer DemiBold
+WritingScript:Roman
+OutlineFileName:\The Northern Block Ltd - Planer-DemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:79512
+FileModTime:1415342116
+NameArray:0,Mac,4,Planer DemiBold
+NameArray:0,Win,1,Planer DemiBold
+NameArray:0,Win,16,Planer
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Planer-Regular
+FamilyName:Planer
+StyleName:Regular
+MenuName:Planer
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Planer
+WritingScript:Roman
+OutlineFileName:\The Northern Block Ltd - Planer-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:82836
+FileModTime:1415342116
+NameArray:0,Mac,18,Planer Regular
+NameArray:0,Mac,4,Planer
+NameArray:0,Win,1,Planer
+%EndFont
+

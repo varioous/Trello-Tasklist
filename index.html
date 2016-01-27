@@ -1,0 +1,74 @@
+<!doctype html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+        <title>varioous | Trelo print</title>
+        <meta name="description" content="trelo print">
+        <meta name="author" content="varioous">
+
+        <link rel="stylesheet" href="css/styles.css" type="text/css">
+    </head>
+
+    <body>
+        <div id="loader">
+            Seiten werden geladen und erstellt...
+        </div>
+    <page size="A4" id="printable-invoice">
+        <div id="header">
+            <img src="images/va_black.png"/>
+            <p class="header-font middle"><span>varioous og</span>
+                <span>Kaiser-Josef-Platz 19</span>
+                <span>4600 Wels, Austria</span></p>
+            <p class="header-font right">
+                <span>t. +43 660 647 673 7</span>
+                <span>e. office@varioous.at</span>
+                <span>w. www.varioous.at</span></p>
+        </div>
+        <div class="content">
+        </div>
+        <div id="footer">
+            <p class="footer-left">
+                <span>uid. ATU 69216207</span>
+                <span>fn. FN427252 m</span>
+            </p>
+            <p class="footer-center">
+                Seite <span></span>
+            </p>
+            <p class="footer-right">
+                <span>easybank AG</span>
+                <span>iban. AT36 1420 0200 1150 9020</span>
+                <span>bic. EASYATW1</span>
+            </p>
+        </div>
+    </page>
+    <div id="printable-content">
+        <div id="headline">
+            <p id="headline-main">
+                <span id="headling-left">Name</span>
+                <span id="headling-middle">Taskliste</span>
+                <span id="headling-right">Datum</span>
+            </p>
+            <div id="headline-main-content">
+                <p id="pleft">
+                    <span id="name" class="header-font">xyz</span>
+                </p>
+                <p id="pmiddle">
+                    <span class="header-font">generated from Trello</span>
+                </p>
+                <p id="pright">
+                    <span id="date-col" class="header-font">23.09.2014</span>
+                </p>
+            </div>
+        </div>
+        <div id="table-sec">
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script src="js/jquery.columnizer.js"></script>
+    <script src="https://api.trello.com/1/client.js?key=XXXXXXX"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
