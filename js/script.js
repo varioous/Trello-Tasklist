@@ -3,7 +3,7 @@ var key = "XXXXXXXXX";
 jQuery(document).ready(function () {
     AuthenticateTrello();
     var today = new Date();
-    var content_height = 400;	// the height of the content, discluding the header/footer
+    var content_height = 840;	// the height of the content, discluding the header/footer
     var page = 1;
 
     function buildPages() {
@@ -15,7 +15,7 @@ jQuery(document).ready(function () {
             page++;
 
             jQuery('#printable-content').columnize({
-                columns: 2,
+                columns: 1,
                 target: ".page:last .content",
                 overflow: {
                     height: content_height,
